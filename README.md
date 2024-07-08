@@ -1,0 +1,2 @@
+# nedbeans-mysql
+.
